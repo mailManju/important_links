@@ -19,3 +19,6 @@ https://stackoverflow.com/questions/45376628/angular-2-4-component-with-dynamic-
 
 
 https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e
+
+
+https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
