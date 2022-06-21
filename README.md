@@ -22,3 +22,7 @@ https://hackernoon.com/here-is-what-you-need-to-know-about-dynamic-components-in
 
 
 https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+
+
+
+https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/introduction/19-deploying-an-nx-monorepo
